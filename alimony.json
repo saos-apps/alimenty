@@ -1,0 +1,8128 @@
+[ {
+  "judgmentId" : 18838,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 3682,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 4876,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 6697,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 10218,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 27313,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 18922,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 7827,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 11340,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 26731,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 3729,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 3336,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 4654,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 3285,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 8313,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 9779,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 11339,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 5897,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 6143,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 6322,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 9724,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 3386,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 9729,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 6141,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 3678,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 8769,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 8314,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 11335,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 3391,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 9728,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 3392,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 4719,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 11510,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 3393,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 4539,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 9732,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 9731,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 4717,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 32034,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 6142,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 6318,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 8288,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 5133,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 6441,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 4540,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 6440,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 26834,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 8316,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 7826,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 4650,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 8290,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 18592,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 4940,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 5134,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 6319,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 4651,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 12169,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 6321,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 7829,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 11660,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 57133,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 8399,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 36275,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 41367,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 10432,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 6449,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 12815,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 7830,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 7908,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 7485,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 6785,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 36277,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 5964,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 12509,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 9611,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 11740,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 6784,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 7828,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 8391,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 26734,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 6180,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 6183,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 6349,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 8405,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 9845,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 9846,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 7360,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 9834,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 16998,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 6888,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 14356,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 9726,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 10120,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 21995,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 7004,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 7005,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 8511,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 10411,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 10707,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 36274,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 8081,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 10706,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 24434,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 8749,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 21910,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 8519,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 11530,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 12036,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 26839,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 15683,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 11882,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 26730,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 11511,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 11741,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 12037,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 15685,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 10705,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 10708,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 15684,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 12035,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 11455,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 12049,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 11439,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 11454,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 12039,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 12040,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 12659,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22232,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 9692,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 11661,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 11742,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 12034,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 12038,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 14187,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 22554,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 26838,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 12000,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 15686,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 31217,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 11800,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 15682,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 15687,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 128630,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 11508,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 14741,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 12460,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 11743,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 13641,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 12208,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 12458,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 11839,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 12011,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 15060,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 32036,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 15680,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22231,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 15128,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 16487,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 16999,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 28525,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 128628,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 13520,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 15681,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 12548,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 13522,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 13523,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 15129,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22550,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 22552,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 15271,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 16488,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 22229,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 38471,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 13525,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 13526,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 13528,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 28531,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 16730,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22559,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 15051,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 15332,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 16733,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 16734,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22555,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 28514,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 19648,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22225,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 37651,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 14771,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 16255,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 16736,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 20105,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 17641,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 17642,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22227,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 17421,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 24711,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 16124,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 16262,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 17693,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 22758,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22759,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22553,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 18837,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 25101,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 24193,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 16861,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 20215,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 19724,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 32033,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 24192,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 26447,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 28549,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 18836,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 18764,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22556,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 24189,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 24535,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 24712,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 24883,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 20662,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 21994,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 20386,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 24885,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 31548,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 21310,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 28553,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 19994,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 29804,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 28989,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 22719,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 20259,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 20917,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 28287,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 20922,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 21294,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 21318,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22226,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 31667,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 19997,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 22051,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 26134,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 25821,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22228,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 22230,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 22720,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 20258,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 21970,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 21971,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 28545,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 22618,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22718,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 20919,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 22130,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 26057,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 28994,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22855,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 20918,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 26833,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 23192,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 25153,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 30636,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 24074,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22557,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 24191,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 25333,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 36056,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 26837,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22624,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22876,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 24283,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 24863,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 28999,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22505,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 22847,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 23432,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 24122,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 24254,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 25157,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 27493,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 27723,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 27725,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 30210,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 22846,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 26835,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 27724,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 27726,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 24087,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 37650,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 22631,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 24971,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 28559,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 24865,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 25798,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 40237,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 22640,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 24864,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 23586,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 29241,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 31552,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 25102,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 40238,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 27640,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 23428,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 24190,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 31934,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 34815,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 26836,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 34354,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 24808,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 26070,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 25160,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 25883,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 26068,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 29725,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 32899,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 34818,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 26288,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 26732,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 26105,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 26106,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 26107,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 33299,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 25332,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 25887,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 25892,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 34613,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 24536,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 29244,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 32108,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 26627,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 26628,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 26224,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 26624,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 26625,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 26626,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 27138,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 27547,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 28075,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 32646,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 34820,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 25898,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 26329,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 27639,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 29218,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 27189,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 42289,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 26843,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 26908,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 45079,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 28293,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 27190,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 30668,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 45592,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 54940,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 29355,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 29356,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 32983,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 30852,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 27196,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 28635,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 28811,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 32498,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 35283,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 35922,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 49532,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 36057,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 31003,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 30253,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 30669,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 28637,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 29217,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 30071,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 35925,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 30330,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 30073,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 30211,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 30967,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 35406,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 35407,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 38684,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 30072,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 34378,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 33680,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 34827,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 30780,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 30670,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 54936,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 30904,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 31004,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 32015,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 34594,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 30252,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 34089,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 35966,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 51295,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 32986,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 34620,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 35927,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 32136,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 33497,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 32987,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 44860,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 32848,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 32868,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 32869,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 33101,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 33396,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 34511,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 34512,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 34705,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 34719,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 36341,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 37429,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 40662,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 56703,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 56705,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 33102,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 33862,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 34724,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 33493,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 34356,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 33267,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 33495,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 33496,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 74395,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 33995,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 34513,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 36276,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 37085,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 43533,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 47994,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 56879,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 32135,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 32163,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 34038,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 35807,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 35867,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 47729,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 51285,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 33494,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 35714,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 36091,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 33863,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 47671,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 49838,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 34515,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 42319,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 47612,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 37215,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 47989,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 57732,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 36604,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 36897,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 39286,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 40484,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 40485,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 40488,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 62029,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 35054,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 36141,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 47610,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 54937,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 54938,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 37049,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 42973,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 57134,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 35113,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 36142,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 36317,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 36391,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 36515,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 37686,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 39127,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 39128,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 41439,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 51290,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 57198,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 34884,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 36535,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 37391,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 39287,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 69520,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 38203,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 51293,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 57200,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 35808,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 40236,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 43312,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 59895,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 37649,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 37390,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 39221,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 37509,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 38118,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 38119,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 47608,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 38059,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 39665,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 39220,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 40233,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 41990,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 51297,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 72031,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 74396,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 57194,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 60118,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 69551,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 38621,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 38998,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 39260,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 39267,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 39546,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 39672,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 43002,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 43402,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 50198,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 63540,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 41992,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 46681,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 56686,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 40711,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 41190,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 55496,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 59898,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 41661,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 47730,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 40440,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 40957,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 42949,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 43936,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 40355,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 41238,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 47734,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 68498,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 69052,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 40888,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 41094,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 41600,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 41601,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 41634,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 41915,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 47735,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 49843,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 54270,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 42164,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 42165,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 47732,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 60123,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 60681,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 40356,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 41290,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 63541,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 41008,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 47607,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 53754,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 67925,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 68500,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 41916,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 42615,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 41897,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 46305,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 47933,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 43403,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 41991,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 42761,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 41855,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 42948,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 47215,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 58190,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 61233,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 61794,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 43183,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 44708,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 44709,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 50016,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 60132,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 42178,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 44654,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 45143,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 57729,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 41663,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 42762,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 43923,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 44513,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 43562,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 45357,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 45358,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 41976,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 54553,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 75804,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 65916,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 44219,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 45356,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 56695,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 66902,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 44058,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 44605,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 44887,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 44888,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 46361,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 47932,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 50329,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 43935,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 52491,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 47216,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 45144,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 52490,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 52493,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 55624,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 46709,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 58967,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 67479,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 67483,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 44760,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 49208,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 48038,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 47736,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 45668,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 46491,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 46846,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 47706,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 49085,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 57195,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 44604,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 46845,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 54267,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 48023,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 48394,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 57377,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 47705,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 57378,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 48200,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 48644,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 49898,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 48039,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 48645,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 49209,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 50190,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 52741,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 57726,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 47849,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 49362,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 50602,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 54268,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 48908,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 50231,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 47618,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 48357,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 129222,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 48689,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 50196,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 50328,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 52434,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 57731,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 60133,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 71259,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 50146,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 51382,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 56455,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 57722,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 58722,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 50240,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 53105,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 61183,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 61192,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 52321,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 129219,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 56457,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 57728,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 57908,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 58968,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 49891,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 50015,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 57725,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 57730,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 72661,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 53104,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 48736,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 63542,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 57723,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 57724,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 65874,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 70659,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 49902,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 51330,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 51386,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 52391,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 52398,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 54719,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 57721,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 64605,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 128734,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 51381,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 53492,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 54696,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 70660,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 52149,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 64478,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 128033,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 65649,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 65875,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 52860,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 53415,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 53708,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 54720,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 54721,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 56716,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 58860,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 53535,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 58935,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 64608,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 52911,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 69051,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 128038,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 54725,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 55355,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 59746,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 53442,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 58863,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 125026,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 66901,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 125027,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 61441,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 70436,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 57720,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 58862,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 128035,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 54120,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 55356,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 58865,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 55234,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 56085,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 128105,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 61967,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 67490,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 56606,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 70012,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 71018,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 60090,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 65642,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 65698,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 65876,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 63245,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 62108,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 64548,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 58936,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 61510,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 66909,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 67496,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 57929,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 57821,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 129220,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 60091,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 60895,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 64546,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 66606,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 67816,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 72666,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 60283,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 128036,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 68706,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 62972,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 61972,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 62008,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 65959,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 61971,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 62320,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 63190,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 63342,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 64175,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 62366,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 62367,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 64291,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 73047,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 69049,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 63242,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 65915,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 66238,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 69035,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 69457,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 70437,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "UCHYLA"
+  }
+}, {
+  "judgmentId" : 72669,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 73051,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 129221,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 66203,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 70434,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 63250,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 63343,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 66202,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 127811,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 69550,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 65489,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 65490,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 65912,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 67939,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 64176,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 66712,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 67510,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 69308,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 70285,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 72697,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 66557,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 66559,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 68293,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 65914,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 66204,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 70284,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 70438,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 72458,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 67938,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 65324,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 66337,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 66342,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 66702,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 73811,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 125781,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 128631,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 73813,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 65699,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 73054,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 72035,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 73616,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 71800,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 71801,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 125786,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 126021,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 126022,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 126023,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 126024,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 67627,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 70769,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 71705,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 67593,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 71102,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 67879,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 68720,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 69485,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 71288,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 69290,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 126025,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 74188,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 127479,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 126026,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 126033,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 68721,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 128037,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 70359,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 69984,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 73254,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 71898,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 128850,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 70622,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 71942,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 71148,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 126056,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 73318,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 73910,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 74881,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 72351,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 72674,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 75129,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 72306,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 72308,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 72309,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 72550,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 74962,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 75506,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 74882,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 75709,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 76204,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 125343,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 127818,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 74194,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 74906,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 75372,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 75993,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 75130,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "both",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 75350,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 125345,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 129223,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 125344,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 74900,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 74548,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 74879,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 127563,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 75684,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 125449,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 125980,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 126311,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 127269,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "male",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 128090,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 127340,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 127870,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "?"
+  }
+}, {
+  "judgmentId" : 127341,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "?",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 126954,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 128092,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "OBNIŻA"
+  }
+}, {
+  "judgmentId" : 128093,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ZMIENIA"
+  }
+}, {
+  "judgmentId" : 128315,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "male",
+    "result" : "PODWYŻSZA"
+  }
+}, {
+  "judgmentId" : 128316,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 127478,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o podwyższenie alimentów",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+}, {
+  "judgmentId" : 127481,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : false,
+    "reason" : "o alimenty",
+    "defendantSex" : "?",
+    "result" : "ZASĄDZA"
+  }
+}, {
+  "judgmentId" : 128997,
+  "tagType" : "ANA_ALIMN",
+  "value" : {
+    "isAppeal" : true,
+    "reason" : "o alimenty",
+    "defendantSex" : "female",
+    "result" : "ODDALA"
+  }
+} ]
