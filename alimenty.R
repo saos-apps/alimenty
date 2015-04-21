@@ -37,6 +37,10 @@ table(alimenty$reason)
 table(alimenty$result)
 with(alimenty, table(reason, result))
 
+alimenty$result[ alimenty$result == "zasądza" & alimenty$reason == "o obniżenie alimentów" ] <- "obniża"
+alimenty$result[ alimenty$result == "zasądza" & alimenty$reason == "o podwyższenie alimentów" ] <- "podwyższa"
+alimenty$result[ alimenty$result == "oddala" & alimenty$reason == "o obniżenie alimentów" ] <- "podwyższa"
+alimenty$result[ alimenty$result == "oddala" & alimenty$reason == "o podwyższenie alimentów" ] <- "obniża"
 
 x <- with(alimenty, table(result,
                           judge=ifelse(pkobieta >= 0.5, "k", "m"),
@@ -46,11 +50,25 @@ p <- prop.table(x, 2:3)
 ftable( aperm(signif(p, 2), c(3,2,1)))
 
 # mydling
-d <- as.data.frame(x) %>% filter( result != "ZASĄDZA" & result != "ZMIENIA" & result != "ODDALA")
-contrasts(d$result) <- contr.treatment(levels(d$result), base=3)
+d <- as.data.frame(x) %>% filter( !(result %in% c("uchyla", "zasądza", "oddala", "zmienia")) )
 m0 <- glm( Freq ~ result + judge * defendant, data=d, family=poisson,
           subset=d$defendant != "both")
 m1 <- update(m0, . ~ . + result*(judge + defendant))
 m2 <- update(m1, . ~ . + result*judge*defendant)
 anova(m0, m1, m2, test="Chisq")
 AIC(m0, m1, m2)
+
+#============================================================================ 
+
+s <- alimenty %>% 
+  mutate(judge = ifelse(pkobieta >= 0.5, "k", "m"),
+         defendant = defendantSex,
+         result = (result == "podwyższa") ) %>%
+  filter(!(result %in% c("oddala", "uchyla", "zasądza", "zmienia"))) %>%
+  filter( defendant != "both" )
+
+m0 <- glm(result ~ judge + defendant, data=s, family=binomial("logit"))
+m1 <- update(m0, . ~ . + judge * defendant )
+AIC(m0, m1)
+
+
