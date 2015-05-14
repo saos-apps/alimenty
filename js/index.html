@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+</head>
+<body>
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+	<script>
+		$.getJSON("alimonyFullMonika.json", function (data) {
+			firstInfo(data);
+			secondInfo(data);
+		});
+
+		function firstInfo (data) {
+			var dataLength = data.length;
+			var isAppeal = 0;
+			var reason = 0;
+			var result = 0;
+
+			data.forEach(function (entry, i) {
+				if (entry.monika)
+				{
+					if (entry.monika.isAppeal !== null && entry.monika.isAppeal !== undefined)
+						isAppeal++;
+					if (entry.monika.reason !== null && entry.monika.reason !== undefined &&
+						entry.monika.reason !== "?")
+						reason++;
+					if (entry.monika.result !== null && entry.monika.result !== undefined &&
+						entry.monika.result !== "?")
+						result++;
+				}
+
+			});
+			var text = '';
+			text += '<h3>Kompletność</h3><table class="table"><thead><tr><th>Pole</th><th>Kompletność</th></tr></thead>';
+			text += '<tr><td>isAppeal</td><td>' + (isAppeal/dataLength*100).toFixed(2) + '%</td></tr>';
+			text += '<tr><td>reason</td><td>' + (reason/dataLength*100).toFixed(2) + '%</td></tr>';
+			text += '<tr><td>result</td><td>' + (result/dataLength*100).toFixed(2) + '%</td></tr>';
+			text += '</table>';
+			$('#firstInfo').append(text);
+		}
+
+		function secondInfo (data) {
+			var dataLength = data.length;
+			var isAppeal = {};
+			var reason = {};
+			var result = {};
+			data.forEach(function (entry, i) {
+				if (entry.monika)
+				{
+					if (entry.monika.isAppeal !== undefined) {
+						if (isAppeal[entry.monika.isAppeal] !== undefined)
+							isAppeal[entry.monika.isAppeal] += 1;
+						else isAppeal[entry.monika.isAppeal] = 1;
+					}
+
+					if (entry.monika.reason !== undefined) {
+						if (reason[entry.monika.reason] !== undefined)
+							reason[entry.monika.reason] += 1;
+						else reason[entry.monika.reason] = 1;
+					}
+
+					if (entry.monika.result !== undefined) {
+						if (result[entry.monika.result] !== undefined)
+							result[entry.monika.result] += 1;
+						else result[entry.monika.result] = 1;
+					}
+				}
+			});
+			var text = '<h3>Pokrycie</h3>';
+			text += '<h5>isAppeal</h5>';
+			$.each(isAppeal, function(index, value) {
+				text += '<p><code>' + index + '</code> : ' + (value/dataLength*100).toFixed(2) + '%</p>';
+			}); 
+			text += '<h5>reason</h5>';
+			$.each(reason, function(index, value) {
+				text += '<p><code>' + index + '</code> : ' + (value/dataLength*100).toFixed(2) + '%</p>';
+			}); 
+			text += '<h5>result</h5>';
+			$.each(result, function(index, value) {
+				text += '<p><code>' + index + '</code> : ' + (value/dataLength*100).toFixed(2) + '%</p>';
+			}); 
+			$('#secondInfo').append(text);
+		}
+
+	</script>
+	<div class="row">
+		<div class="col-md-6" id="firstInfo"></div>
+		<div class="col-md-6" id="secondInfo"></div>
+	</div>
+</body>
