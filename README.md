@@ -1,7 +1,12 @@
-# Analizy orzeczeń ws alimentów
+# Analiza orzeczeń ws alimentów
 
+Podsumowanie dotychczasowych wyników: http://bl.ocks.org/pawluczuk/raw/06ee273b9305109335cd/
+
+Monika - analiza: dane umieszczone są w pliku /js/alimonyFullMonika.json (wcześniejsza analiza + tekst wyroku + moja analiza)
 
 ## Pola w jsonie
+
+Wczesniejsza analiza: 
 
 ```
 {
