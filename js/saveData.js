@@ -33,6 +33,7 @@ function addJudgment(judgment, index) {
 			    res.on('end', function() {
 			        var judgmentFull = JSON.parse(body);
 			        judgment.text = getResult(judgmentFull.data.textContent);
+			        judgment.fullText = getFullText(judgmentFull.data.textContent);
 			        alimonyArray.push(judgment);
 			        callback();
 			    });
@@ -46,4 +47,9 @@ function getResult(text) {
 	var wyrok = text.split("uzasadnieni");
 	$ = cheerio.load(wyrok[0]);
 	return $('div').first().text();
+}
+
+function getFullText(text) {
+	$ = cheerio.load(text);
+	return $('*').text();
 }

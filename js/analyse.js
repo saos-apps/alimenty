@@ -52,13 +52,52 @@ function analyse() {
 		// result - wyrok który zapadł
 		// dostępne wyniki : ?, obniża, podwyższa, oddala
 		entry.monika.result = getResult(entry.text, entry.monika.reason);
+
+		// plec pozwanego
+		entry.monika.defendantSex = getDefendantSex(entry.fullText, entry.monika.reason);
+
+		// plec powoda
+		entry.monika.plaintiffSex = getPlaintiffSex(entry.fullText, entry.monika.reason);
 	});
 }
 
+function getDefendantSex(text, reason) {
+	if (reason.indexOf(' i ') > -1 )
+		return 'both';
+	if (text.indexOf('pozwanego') > -1 || text.indexOf('pozwany') > -1 )
+		return 'male';
+	if (text.indexOf('pozwanej') > -1 || text.indexOf('pozwana') > -1 )
+		return 'female';
+	var re1 = /przeciwko\D*przez matkę/;
+	var re2 = /przeciwko\D*przez przedstawicielkę/;
+	var re3 = /przeciwko\D*przez ojca/;
+	var re4 = /przeciwko\D*przez przedstawiciela/;
+	if (text.match(re1) || text.match(re2))
+	{
+		return 'female';
+	}
+	if (text.match(re3) || text.match(re4))
+	{
+		return 'male';
+	}
+	return '?';
+}
+
+function getPlaintiffSex(text, reason) {
+	if (reason.indexOf(' i ') > -1 )
+		return 'both';
+	if (text.indexOf('powódki') > -1 || text.indexOf('powódka') > -1)
+		return 'female';
+	if (text.match('/z powództwa\D*((?!przeciwko).)przez matkę/'))
+	{	console.log("dupa");return 'female';}
+	if (text.match('/z powództwa\D*((?!przeciwko).)przez ojca/'))
+		return 'male';
+	if (text.match('/powód\s/') || text.indexOf('powoda') > -1)
+		return 'male';
+	return '?';
+}
+
 function getResult(text, reason) {
-	//console.log('up: ' + up + '\tdown: ' + down + '\tchanged: ' + changed);
-	//if ( (up && down) || (up&&dismissed) || (down&&dismissed) )
-	//	return '?';
 	if (isUp(text, reason))
 		return 'podwyższa alimenty';
 	if (isDown(text, reason))
@@ -75,8 +114,6 @@ function getResult(text, reason) {
 }
 
 function isChanged(text, reason) {
-
-	// zmienia^((?!(punkt|punkcie|pkt)).)*$\D*po\D*(\d+)\D*po\D*(\d+)
 	var re = /zmienia.*po\s.*(\d+).*po\s.*(\d+)/ig;
 	var re1 = /\spo\s(\d+).*\szamiast.*\spo\s(\d+)/;
 	var re2 = /w miejsce.*\spo\s(\d+).*\spo\s(\d+)/;
@@ -167,43 +204,39 @@ function isAwarded(text, reason) {
 }
 
 function compare() {
-
-	//console.log('id: ' + entry.judgmentId + ' reason: ' + entry.monika.reason);
 	resultCounter = {};
 	reasonCounter = {};
 	alimenty.forEach(function(entry) {
+		/*
+			if (entry.monika.isAppeal !== entry.value.isAppeal)
+			{
+				console.log(entry.judgmentId);
+				console.log('analyse: ' + entry.value.isAppeal);
+				console.log('monika: ' + entry.monika.isAppeal);
+			}
 
-		//console.log('id: ' + entry.judgmentId + ' reason: ' + entry.monika.reason);
+			if (entry.monika.result === 'podwyższa' && entry.value.result !== entry.monika.result) {
+				console.log('podwyższa: ' + entry.judgmentId);
+				console.log('analyse: ' + entry.value.result);
+				console.log(entry.monika);
+			}
 
-		/*if (entry.monika.isAppeal !== entry.value.isAppeal)
-		{
-			console.log(entry.judgmentId);
-			console.log('analyse: ' + entry.value.isAppeal);
-			console.log('monika: ' + entry.monika.isAppeal);
-		}
+			if (entry.monika.result === 'obniża' && entry.value.result !== entry.monika.result) {
+				console.log('obniża: ' + entry.judgmentId);
+				console.log('analyse: ' + entry.value.result);
+				console.log(entry.monika);
+			}
+			if (entry.monika.result === 'oddala' && entry.value.result !== 'oddala') {
+				console.log('oddala: ' + entry.judgmentId);
+				console.log('analyse: ' + entry.value.result);
+				console.log(entry.monika);
+			}
 
-		if (entry.monika.result === 'podwyższa' && entry.value.result !== entry.monika.result) {
-			console.log('podwyższa: ' + entry.judgmentId);
-			console.log('analyse: ' + entry.value.result);
-			console.log(entry.monika);
-		}
-
-		if (entry.monika.result === 'obniża' && entry.value.result !== entry.monika.result) {
-			console.log('obniża: ' + entry.judgmentId);
-			console.log('analyse: ' + entry.value.result);
-			console.log(entry.monika);
-		}
-		if (entry.monika.result === 'oddala' && entry.value.result !== 'oddala') {
-			console.log('oddala: ' + entry.judgmentId);
-			console.log('analyse: ' + entry.value.result);
-			console.log(entry.monika);
-		}
-
-		if (entry.monika.result.indexOf('?') > -1) {
-			console.log('\nid: ' + entry.judgmentId);
-			console.log('analyse: ' + entry.value.result);
-			console.log(entry.monika);
-		}
+			if (entry.monika.result.indexOf('?') > -1) {
+				console.log('\nid: ' + entry.judgmentId);
+				console.log('analyse: ' + entry.value.result);
+				console.log(entry.monika);
+			}
 
 		*/
 
@@ -217,9 +250,14 @@ function compare() {
 		}
 		else reasonCounter[entry.monika.reason] += 1;
 
-		if ( entry.monika.result !== entry.value.result ) {
-			console.log('ID: ' + entry.judgmentId + '\tchlopaki: ' + entry.value.result
-				+ '\tmoje: ' + entry.monika.result);
+		if ( entry.monika.defendantSex === '?') {
+			console.log('defendant ID: ' + entry.judgmentId + '\tchlopaki: ' + entry.value.defendantSex
+				+ '\tmoje: ' + entry.monika.defendantSex);
+		}
+
+		if ( entry.monika.plaintiffSex === '?') {
+			console.log('plaintiff ID: ' + entry.judgmentId + '\tmoje: ' + entry.monika.plaintiffSex);
+			if (entry.judgmentId === 40484) console.log(entry.fullText)
 		}
 	});
 	console.log("\nREASONS: ");
@@ -228,11 +266,11 @@ function compare() {
 	console.log("\nRESULTS: ");
 	console.log(resultCounter);
 
+
 	fs.writeFile('alimonyFullMonika.json', JSON.stringify(alimenty), function (err) {
 		if (err) throw err;
 		console.log('It\'s saved!');
 	});
-
 }
 
 analyse();

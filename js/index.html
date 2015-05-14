@@ -17,6 +17,8 @@
 			var isAppeal = 0;
 			var reason = 0;
 			var result = 0;
+			var defendantSex = 0;
+			var plaintiffSex = 0;
 
 			data.forEach(function (entry, i) {
 				if (entry.monika)
@@ -26,6 +28,12 @@
 					if (entry.monika.reason !== null && entry.monika.reason !== undefined &&
 						entry.monika.reason !== "?")
 						reason++;
+					if (entry.monika.defendantSex !== null && entry.monika.defendantSex !== undefined && 
+						entry.monika.defendantSex !== "?")
+						defendantSex++;
+					if (entry.monika.plaintiffSex !== null && entry.monika.plaintiffSex !== undefined && 
+						entry.monika.plaintiffSex !== "?")
+						plaintiffSex++;
 					if (entry.monika.result !== null && entry.monika.result !== undefined &&
 						entry.monika.result !== "?")
 						result++;
@@ -37,6 +45,10 @@
 			text += '<tr><td>isAppeal</td><td>' + (isAppeal/dataLength*100).toFixed(2) + '%</td></tr>';
 			text += '<tr><td>reason</td><td>' + (reason/dataLength*100).toFixed(2) + '%</td></tr>';
 			text += '<tr><td>result</td><td>' + (result/dataLength*100).toFixed(2) + '%</td></tr>';
+			text += '<tr><td>defendantSex</td><td>' + (defendantSex/dataLength*100).toFixed(2) + 
+				'%</td></tr>';
+			text += '<tr><td>plaintiffSex</td><td>' + (plaintiffSex/dataLength*100).toFixed(2) + 
+				'%</td></tr>';
 			text += '</table>';
 			$('#firstInfo').append(text);
 		}
@@ -46,6 +58,8 @@
 			var isAppeal = {};
 			var reason = {};
 			var result = {};
+			var defendantSex = {};
+			var plaintiffSex = {};
 			data.forEach(function (entry, i) {
 				if (entry.monika)
 				{
@@ -59,6 +73,18 @@
 						if (reason[entry.monika.reason] !== undefined)
 							reason[entry.monika.reason] += 1;
 						else reason[entry.monika.reason] = 1;
+					}
+
+					if (entry.monika.defendantSex !== undefined) {
+						if (defendantSex[entry.monika.defendantSex] !== undefined)
+							defendantSex[entry.monika.defendantSex] += 1;
+						else defendantSex[entry.monika.defendantSex] = 1;
+					}
+
+					if (entry.monika.plaintiffSex !== undefined) {
+						if (plaintiffSex[entry.monika.plaintiffSex] !== undefined)
+							plaintiffSex[entry.monika.plaintiffSex] += 1;
+						else plaintiffSex[entry.monika.plaintiffSex] = 1;
 					}
 
 					if (entry.monika.result !== undefined) {
@@ -79,6 +105,14 @@
 			}); 
 			text += '<h5>result</h5>';
 			$.each(result, function(index, value) {
+				text += '<p><code>' + index + '</code> : ' + (value/dataLength*100).toFixed(2) + '%</p>';
+			}); 
+			text += '<h5>defendantSex</h5>';
+			$.each(defendantSex, function(index, value) {
+				text += '<p><code>' + index + '</code> : ' + (value/dataLength*100).toFixed(2) + '%</p>';
+			});
+			text += '<h5>plaintiffSex</h5>';
+			$.each(plaintiffSex, function(index, value) {
 				text += '<p><code>' + index + '</code> : ' + (value/dataLength*100).toFixed(2) + '%</p>';
 			}); 
 			$('#secondInfo').append(text);
