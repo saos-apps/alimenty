@@ -89,7 +89,7 @@ function getPlaintiffSex(text, reason) {
 	if (text.indexOf('powódki') > -1 || text.indexOf('powódka') > -1)
 		return 'female';
 	if (text.match('/z powództwa\D*((?!przeciwko).)przez matkę/'))
-	{	console.log("dupa");return 'female';}
+		return 'female';
 	if (text.match('/z powództwa\D*((?!przeciwko).)przez ojca/'))
 		return 'male';
 	if (text.match('/powód\s/') || text.indexOf('powoda') > -1)
@@ -250,15 +250,6 @@ function compare() {
 		}
 		else reasonCounter[entry.monika.reason] += 1;
 
-		if ( entry.monika.defendantSex === '?') {
-			console.log('defendant ID: ' + entry.judgmentId + '\tchlopaki: ' + entry.value.defendantSex
-				+ '\tmoje: ' + entry.monika.defendantSex);
-		}
-
-		if ( entry.monika.plaintiffSex === '?') {
-			console.log('plaintiff ID: ' + entry.judgmentId + '\tmoje: ' + entry.monika.plaintiffSex);
-			if (entry.judgmentId === 40484) console.log(entry.fullText)
-		}
 	});
 	console.log("\nREASONS: ");
 	console.log(reasonCounter);
@@ -266,11 +257,62 @@ function compare() {
 	console.log("\nRESULTS: ");
 	console.log(resultCounter);
 
+	saveFullData(alimenty, saveAnalysis);
+	
+}
 
-	fs.writeFile('alimonyFullMonika.json', JSON.stringify(alimenty), function (err) {
+function saveFullData(data, callback) {
+	fs.writeFile('alimonyFullMonika.json', JSON.stringify(data), function (err) {
 		if (err) throw err;
-		console.log('It\'s saved!');
+		console.log('Full data saved.');
+		callback(data);
 	});
+}
+
+function saveAnalysis(data) {
+	var analysis = {};
+	analysis.completeness = completeness(data);
+	analysis.coverage = coverage(data);
+	analysis.dataLength = data.length;
+	fs.writeFile('analysis.json', JSON.stringify(analysis), function (err) {
+		if (err) throw err;
+		console.log('Analysis saved.');
+	});
+}
+
+function coverage(data) {
+	var stats = {};
+	data.forEach(function(entry) {
+		if (!entry.monika) return;
+		for (var property in entry.monika) {
+			if (entry.monika.hasOwnProperty(property)) {
+				if (stats[property] === undefined)
+					stats[property] = {};
+				if (stats[property][entry.monika[property]] === undefined)
+					stats[property][entry.monika[property]] = 1;
+				else stats[property][entry.monika[property]] += 1;
+			}
+		}
+	});
+	return stats;
+}
+
+function completeness(data) {
+	var stats = {};
+	data.forEach(function(entry) {
+		if (!entry.monika) return;
+
+		for(var property in entry.monika) { 
+			if (entry.monika.hasOwnProperty(property)) {
+				if (stats[property] === undefined)
+					stats[property] = 1;
+				if (entry.monika[property] !== '?')
+					stats[property] += 1;
+			}
+		}
+	});
+
+	return stats;
 }
 
 analyse();
