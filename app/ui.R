@@ -24,7 +24,27 @@ shinyUI(navbarPage("Alimenty",
                             )
                    ),
                    tabPanel("Dwuwymiarowa analiza",
-                            verbatimTextOutput("summary")
+                            sidebarLayout(
+                              sidebarPanel(
+                                radioButtons("twoDimAnalysis_1", "Grupuj według",
+                                             c("Apelacja"="isAppeal", 
+                                               "Powód sprawy"="reason",
+                                               "Wyrok sprawy"="result",
+                                               "Płeć powoda"="plaintiffSex",
+                                               "Płeć pozwanego"="defendantSex")
+                                ),
+                                radioButtons("twoDimAnalysis_2", "Analizuj grupy według",
+                                             c("Apelacja"="isAppeal", 
+                                               "Powód sprawy"="reason",
+                                               "Wyrok sprawy"="result",
+                                               "Płeć powoda"="plaintiffSex",
+                                               "Płeć pozwanego"="defendantSex")
+                                )
+                              ),
+                              mainPanel(
+                                d3_visualisation(outputId = "twoDimVisualisation")
+                              )
+                            )
                    ),
                    navbarMenu("Modele",
                               tabPanel("TBD",

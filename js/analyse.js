@@ -207,39 +207,6 @@ function compare() {
 	resultCounter = {};
 	reasonCounter = {};
 	alimenty.forEach(function(entry) {
-		/*
-			if (entry.monika.isAppeal !== entry.value.isAppeal)
-			{
-				console.log(entry.judgmentId);
-				console.log('analyse: ' + entry.value.isAppeal);
-				console.log('monika: ' + entry.monika.isAppeal);
-			}
-
-			if (entry.monika.result === 'podwyższa' && entry.value.result !== entry.monika.result) {
-				console.log('podwyższa: ' + entry.judgmentId);
-				console.log('analyse: ' + entry.value.result);
-				console.log(entry.monika);
-			}
-
-			if (entry.monika.result === 'obniża' && entry.value.result !== entry.monika.result) {
-				console.log('obniża: ' + entry.judgmentId);
-				console.log('analyse: ' + entry.value.result);
-				console.log(entry.monika);
-			}
-			if (entry.monika.result === 'oddala' && entry.value.result !== 'oddala') {
-				console.log('oddala: ' + entry.judgmentId);
-				console.log('analyse: ' + entry.value.result);
-				console.log(entry.monika);
-			}
-
-			if (entry.monika.result.indexOf('?') > -1) {
-				console.log('\nid: ' + entry.judgmentId);
-				console.log('analyse: ' + entry.value.result);
-				console.log(entry.monika);
-			}
-
-		*/
-
 		if ( resultCounter[entry.monika.result] === undefined ) {
 			resultCounter[entry.monika.result] = 1;
 		}
@@ -265,16 +232,30 @@ function saveFullData(data, callback) {
 	fs.writeFile('alimonyFullMonika.json', JSON.stringify(data), function (err) {
 		if (err) throw err;
 		console.log('Full data saved.');
-		callback(data);
+		callback(data, saveDataWithoutFullText);
 	});
 }
 
-function saveAnalysis(data) {
+function saveAnalysis(data, callback) {
 	var analysis = {};
 	analysis.completeness = completeness(data);
 	analysis.coverage = coverage(data);
 	analysis.dataLength = data.length;
 	fs.writeFile('analysis.json', JSON.stringify(analysis), function (err) {
+		if (err) throw err;
+		console.log('Analysis saved.');
+		callback(data);
+	});
+}
+
+function saveDataWithoutFullText(data) {
+	monikaData = [];
+	data.forEach(function(entry) {
+		var obj = entry.monika;
+		obj.judgmentId = entry.judgmentId;
+		monikaData.push(obj);
+	});
+	fs.writeFile('alimonyMonika.json', JSON.stringify(monikaData), function (err) {
 		if (err) throw err;
 		console.log('Analysis saved.');
 	});
