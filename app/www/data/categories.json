@@ -4,7 +4,7 @@
 		"obniżenie", "podwyższenie i uchylenie", "podwyższenie i alimenty", 
 		"obniżenie i podwyższenie i uchylenie", "obniżenie i podwyższenie i alimenty",
 		"uchylenie i alimenty", "obniżenie i uchylenie", "podwyższenie i uchylenie i alimenty",
-		"obniżenie i alimenty"],
+		"obniżenie i alimenty", "?"],
 	"result" : ["zasądza (wprowadza) alimenty", "podwyższa alimenty", "oddala wnioski/apelację", 
 		"obniża alimenty", "?", "uchyla obowiązek alimentacyjny"],
 	"defendantSex" : ["male", "female", "both", "?"],

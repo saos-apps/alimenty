@@ -16,6 +16,7 @@
 		},
 		
 		renderValue: function(el, data) {
+			console.log(data)
 			var dataLength = data.length;
 			if (data.type === 'oneDim') {
 				var dataName = data.name;
@@ -131,19 +132,16 @@
 				dependencies[mainCategory][subCategory] = 0;
 			});
 		});
-
 		$.each(data, function(i, entry) {
 			mainCategoryCounter[entry[dataName1]] += 1;
 			dependencies[entry[dataName1]][entry[dataName2]] += 1;
 		});
 
 		$.each(dependencies, function(dependency, dependencyValue) {
-			console.log(dependencyValue);
 			$.each(dependencyValue, function(property, propertyValue) {
 				dependencyValue[property] = (propertyValue/mainCategoryCounter[dependency]*100).toFixed(2);
 			});
 		});
-
 		return dependencies;
 	}
 
@@ -154,8 +152,6 @@
 		vis.viscategories = stackedBarChartCategories(dependencies);
 		vis.viscolumns = stackedBarChartColumns(dependencies, vis.groups, vis.viscategories);
 
-		console.log(vis);
-		
 		return vis;
 	}
 
