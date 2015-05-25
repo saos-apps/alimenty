@@ -1,9 +1,9 @@
 (function (window) {
-    'use strict';
+	'use strict';
 
-    var stackedBarChart = { name: "StackedBarChart based on c3.js" };
-    stackedBarChart.generate = function(data, dataName1, dataName2, categories, dataLength) {
-    	var vis = prepareStackedVisData(data, dataName1, dataName2, categories, dataLength);
+	var stackedBarChart = { name: "StackedBarChart based on c3.js" };
+	stackedBarChart.generate = function(data, dataName1, dataName2, categories, dataLength) {
+		var vis = prepareStackedVisData(data, dataName1, dataName2, categories, dataLength);
 		var chart = c3.generate({
 			bindto: '#twoDimVisualisation',
 			size: {
@@ -36,40 +36,51 @@
 				}
 			},
 			tooltip: {
-				format: {
+			  	format: {
 					value: function (value, ratio, id) {
-		                return value + "%";
-		            }
-				}
-			}
-		});
+						return value + "%";
+					}
+				},
+			  	contents: function (d, defaultTitleFormat, defaultValueFormat, color) {
+				  	var $$ = this, config = $$.config,
+					  	titleFormat = config.tooltip_format_title || defaultTitleFormat,
+					  	nameFormat = config.tooltip_format_name || function (name) { return name; },
+					  	valueFormat = config.tooltip_format_value || defaultValueFormat,
+					  	text, i, title, value, name, bgcolor, titleCounter;
 
-		/*
-		d3.selectAll(".c3-event-rect").style("width", function(d, i) {
-			console.log(d)
-			console.log(i)
-			console.log(this)
-			return 20 + "px" ;
-		});
-		$(".c3-event-rect").each(function(index) {
-			//console.log( index );
-			//console.log(d3.select(this))
-			var width = vis.viscategories[index]/dataLength;
-			d3.selectAll(this).style("width", function() {
-				
-				return vis.viscategories[index]/dataLength*60;
-			});
-		});
-		*/
-    };
+				  	for (i = 0; i < d.length; i++) {
+					  	if (! (d[i] && (d[i].value || d[i].value === 0))) { continue; }
 
-    if (typeof define === 'function' && define.amd) {
-        define("stackedBarChart", ["d3"], stackedBarChart);
-    } else if ('undefined' !== typeof exports && 'undefined' !== typeof module) {
-        module.exports = stackedBarChart;
-    } else {
-        window.stackedBarChart = stackedBarChart;
-    }
+					  	if (! text) {
+						  	title = titleFormat ? titleFormat(d[i].x) : d[i].x;
+						  	titleCounter = vis.counter[title];
+						  	title += " (" + titleCounter + ")"; 
+						  	text = "<table class='" + $$.CLASS.tooltip + "'>" + (title || title === 0 ? "<tr><th colspan='2'>" + title + "</th></tr>" : "");
+					  	}
+
+					  	name = nameFormat(d[i].name);
+					  	value = valueFormat(d[i].value, d[i].ratio, d[i].id, d[i].index);
+					  	bgcolor = $$.levelColor ? $$.levelColor(d[i].value) : color(d[i].id);
+
+					  	text += "<tr class='" + $$.CLASS.tooltipName + "-" + d[i].id + "'>";
+					  	text += "<td class='name'><span style='background-color:" + bgcolor + "'></span>" + name + "</td>";
+					  	text += "<td class='value'>" + (d[i].value*Number(titleCounter)/100).toFixed(0);
+					  	text += " (" + value + ")</td>";
+					  	text += "</tr>";
+				  	}
+				  	return text + "</table>";
+			  	}
+		  	}
+		});
+	};
+
+	if (typeof define === 'function' && define.amd) {
+		define("stackedBarChart", ["d3"], stackedBarChart);
+	} else if ('undefined' !== typeof exports && 'undefined' !== typeof module) {
+		module.exports = stackedBarChart;
+	} else {
+		window.stackedBarChart = stackedBarChart;
+	}
 })(window);
 
 function countDependencies(data, dataName1, dataName2, categories, dataLength) {
