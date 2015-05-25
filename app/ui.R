@@ -52,6 +52,8 @@ shinyUI(navbarPage("Alimenty",
                               )
                    ),
                    tags$head(tags$link(rel = "stylesheet", type = "text/css", href = "css/c3.min.css")),
+                   tags$head(tags$script(src="js/stackedBarChart.js")),
+                   tags$head(tags$script(src="js/barChart.js")),
                    tags$head(tags$script(src="js/vis.js")),
                    tags$head(tags$script(src="js/d3.min.js")),
                    tags$head(tags$script(src="js/c3.min.js"))
