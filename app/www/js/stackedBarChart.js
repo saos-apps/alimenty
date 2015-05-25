@@ -72,10 +72,6 @@
     }
 })(window);
 
-function stackedBarChart() {
-	
-}
-
 function countDependencies(data, dataName1, dataName2, categories, dataLength) {
 	var dependencies = {};
 	var mainCategoryCounter = {};
@@ -90,9 +86,25 @@ function countDependencies(data, dataName1, dataName2, categories, dataLength) {
 			dependencies[mainCategory][subCategory] = 0;
 		});
 	});
+
 	$.each(data, function(i, entry) {
 		mainCategoryCounter[entry[dataName1]] += 1;
-		dependencies[entry[dataName1]][entry[dataName2]] += 1;
+	});
+
+	$.each(data, function(i, entry) {
+		if (mainCategoryCounter[entry[dataName1]]/dataLength <= 0.01 || entry[dataName1] === '?') {
+			if (dependencies.inne === undefined) {
+				dependencies.inne = {};
+				$.each(categories[dataName2], function(i, subCategory) {
+					dependencies.inne[subCategory] = 0;
+				});
+				mainCategoryCounter.inne = 0;
+			}
+			dependencies.inne[entry[dataName2]] += 1;
+			mainCategoryCounter.inne += 1;
+			delete dependencies[entry[dataName1]];
+		}
+		else dependencies[entry[dataName1]][entry[dataName2]] += 1;
 	});
 
 	$.each(dependencies, function(dependency, dependencyValue) {
@@ -114,6 +126,7 @@ function prepareStackedVisData(data, dataName1, dataName2, categories, dataLengt
 	vis.viscategories = stackedBarChartCategories(dependencies);
 	vis.viscolumns = stackedBarChartColumns(dependencies, vis.groups, vis.viscategories);
 	vis.counter = countedDependencies.counter;
+
 	return vis;
 }
 
