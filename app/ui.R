@@ -15,8 +15,11 @@ shinyUI(navbarPage("Alimenty",
                                                "Powód sprawy"="reason",
                                                "Wyrok sprawy"="result",
                                                "Płeć powoda"="plaintiffSex",
-                                               "Płeć pozwanego"="defendantSex")
-                                )
+                                               "Płeć pozwanego"="defendantSex",
+                                               "Płeć składu sędziowskiego"="pkobieta")
+                                ),
+                                p("Wizualizacja orzeczeń w sprawach sądowych o alimenty. Opiera się na 1002 orzeczeniach, pobranych z systemu SAOS."),
+                                img(src="img/icm-logo.png", width="50px")
                               ),
                               mainPanel(
                                 d3_visualisation(outputId = "oneDimVisualisation")
@@ -31,26 +34,30 @@ shinyUI(navbarPage("Alimenty",
                                                "Powód sprawy"="reason",
                                                "Wyrok sprawy"="result",
                                                "Płeć powoda"="plaintiffSex",
-                                               "Płeć pozwanego"="defendantSex")
+                                               "Płeć pozwanego"="defendantSex",
+                                               "Płeć składu sędziowskiego"="pkobieta")
                                 ),
                                 radioButtons("twoDimAnalysis_2", "Analizuj grupy według",
                                              c("Apelacja"="isAppeal", 
                                                "Powód sprawy"="reason",
                                                "Wyrok sprawy"="result",
                                                "Płeć powoda"="plaintiffSex",
-                                               "Płeć pozwanego"="defendantSex")
-                                )
+                                               "Płeć pozwanego"="defendantSex",
+                                               "Płeć składu sędziowskiego"="pkobieta")
+                                ),
+                                p("Wizualizacja orzeczeń w sprawach sądowych o alimenty. Opiera się na 1002 orzeczeniach, pobranych z systemu SAOS."),
+                                img(src="img/icm-logo.png", width="50px")
                               ),
                               mainPanel(
                                 d3_visualisation(outputId = "twoDimVisualisation")
                               )
                             )
                    ),
-                   navbarMenu("Modele",
-                              tabPanel("TBD",
-                                       dataTableOutput("table")
-                              )
-                   ),
+                   #navbarMenu("Modele",
+                  #            tabPanel("TBD",
+                  #                     dataTableOutput("table")
+                  #            )
+                  # ),
                    tags$head(tags$link(rel = "stylesheet", type = "text/css", href = "css/c3.min.css")),
                    tags$head(tags$script(src="js/stackedBarChart.js")),
                    tags$head(tags$script(src="js/barChart.js")),

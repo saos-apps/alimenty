@@ -1,8 +1,9 @@
 var alimenty = require('./alimonyFull.json');
+var kobietySklad = require('./kobietySklad.json')
 var fs = require('fs');
 
+var kobiety = prepareKobiety(kobietySklad);
 function analyse() {
-
 	alimenty.forEach(function(entry) {
 
 		entry.text = entry.text.toLowerCase();
@@ -14,6 +15,9 @@ function analyse() {
 		var isAppeal = entry.text.indexOf('apelacj');
 
 		entry.monika = {};
+
+
+		entry.monika.pkobieta = (kobiety[entry.judgmentId] === undefined) ? '?' : kobiety[entry.judgmentId];
 
 		// isAppeal - czy jest to apelacja
 		// dostępne wyniki : true, false
@@ -294,6 +298,23 @@ function completeness(data) {
 	});
 
 	return stats;
+}
+
+function prepareKobiety(data) {
+	var obj = {};
+	for (var row in data) {
+		var tab = data[row];
+		if (typeof(tab[1]) !== 'number')
+			obj[tab[0]] = '?';
+		else if (tab[1] > 0.5)
+			obj[tab[0]] = 'przewaga kobiet';
+		else if (tab[1] < 0.5)
+			obj[tab[0]] = 'przewaga mężczyzn';
+		else if (tab[1] === 0.5)
+			obj[tab[0]] = 'po równo';
+	}
+	console.log(obj)
+	return obj;
 }
 
 analyse();

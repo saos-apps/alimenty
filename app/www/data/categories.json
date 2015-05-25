@@ -8,5 +8,6 @@
 	"result" : ["zasądza (wprowadza) alimenty", "podwyższa alimenty", "oddala wnioski/apelację", 
 		"obniża alimenty", "?", "uchyla obowiązek alimentacyjny"],
 	"defendantSex" : ["male", "female", "both", "?"],
-	"plaintiffSex" : ["male", "female", "both", "?"]
+	"plaintiffSex" : ["male", "female", "both", "?"],
+	"pkobieta" : ["przewaga kobiet", "przewaga mężczyzn", "po równo", "?"]
 }

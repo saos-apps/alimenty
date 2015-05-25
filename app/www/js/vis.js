@@ -6,7 +6,8 @@ var mapping = {
 	reason : "Powód sprawy",
 	result : "Wyrok sprawy",
 	plaintiffSex : "Płeć powoda",
-	defendantSex : "Płec pozwanego"
+	defendantSex : "Płec pozwanego",
+	pkobieta : "Płeć składu sędziowskiego"
 };
 
 $.extend(networkOutputBinding, {

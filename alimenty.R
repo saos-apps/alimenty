@@ -21,25 +21,22 @@ if(FALSE) {
 l2 <- readRDS("alimenty-full.rds")
 o2 <- ldply(l2, function(x) expand.grid(id=x$id, text=extractHTMLStrip(x$textContent), judge=sapply(x$judges, "[[", "name")) )
 ds <- DataframeSource(o2)
-class(o2)
-corpus <- VCorpus(ds)
-summary(corpus)
-print("Corpus created")
-corpus <- tm_map(corpus, content_transformer(tolower))
-print("Tolower finished")
-corpus <- tm_map(corpus, content_transformer(removeNumbers))
-print("RemoveNumbers finished")
-corpus <- tm_map(corpus, content_transformer(removeWords), polishStopWords)
-print("Removing stopwords finished")
-corpus <- tm_map(corpus, content_transformer(stripWhitespace))
-print("Strip whitespace finished")
-dtm <- DocumentTermMatrix(corpus)
 
 o2$imie <- sapply(strsplit(o2$judge, " "), "[", 1)
 o2$kobieta <- substr( o2$imie, start=nchar(o2$imie), stop=nchar(o2$imie) ) == "a"
 o2$kobieta[ grepl("\\.", o2$imie) ] <- NA
 o2u <- o2 %>% group_by(id) %>% summarise(pkobieta = mean(kobieta, na.rm=TRUE))
 
+exportJSON <- list()
+i = 1
+while (i <= dim(o2u)[1]) {
+  #obj <- list()
+  obj$id <- o2u[i, 1]$id
+  obj$pkobieta <- o2u[i, 2]$pkobieta
+  print(obj)
+  exportJSON[length(exportJSON)+1] <- obj
+  i = i + 1
+}
 # Połączenie
 alimenty <- sqldf("select o1.*, o2u.pkobieta from o1 left join o2u on o1.judgmentId=o2u.id")
 svnames <- c("result", "defendantSex")

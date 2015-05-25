@@ -9,6 +9,7 @@ shinyServer(function(input, output, session) {
   output$oneDimVisualisation <- reactive({
     # creating a dependency on action button
     input$oneDimAnalysis
+    
     selected <- input$oneDimAnalysis
     data <- list()
     data$data <- analysis$coverage[selected]

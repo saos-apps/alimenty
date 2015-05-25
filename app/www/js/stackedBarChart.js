@@ -34,8 +34,33 @@
 						top : 0
 					}
 				}
+			},
+			tooltip: {
+				format: {
+					value: function (value, ratio, id) {
+		                return value + "%";
+		            }
+				}
 			}
 		});
+
+		/*
+		d3.selectAll(".c3-event-rect").style("width", function(d, i) {
+			console.log(d)
+			console.log(i)
+			console.log(this)
+			return 20 + "px" ;
+		});
+		$(".c3-event-rect").each(function(index) {
+			//console.log( index );
+			//console.log(d3.select(this))
+			var width = vis.viscategories[index]/dataLength;
+			d3.selectAll(this).style("width", function() {
+				
+				return vis.viscategories[index]/dataLength*60;
+			});
+		});
+		*/
     };
 
     if (typeof define === 'function' && define.amd) {
@@ -75,16 +100,20 @@ function countDependencies(data, dataName1, dataName2, categories, dataLength) {
 			dependencyValue[property] = (propertyValue/mainCategoryCounter[dependency]*100).toFixed(2);
 		});
 	});
-	return dependencies;
+	var obj = {};
+	obj.dependencies = dependencies;
+	obj.counter = mainCategoryCounter;
+	return obj;
 }
 
 function prepareStackedVisData(data, dataName1, dataName2, categories, dataLength) {
 	var vis = {};
-	var dependencies = countDependencies(data, dataName1, dataName2, categories, dataLength);
+	var countedDependencies = countDependencies(data, dataName1, dataName2, categories, dataLength);
+	var dependencies = countedDependencies.dependencies;
 	vis.groups = stackedBarChartGroups(dependencies);
 	vis.viscategories = stackedBarChartCategories(dependencies);
 	vis.viscolumns = stackedBarChartColumns(dependencies, vis.groups, vis.viscategories);
-
+	vis.counter = countedDependencies.counter;
 	return vis;
 }
 

@@ -5,7 +5,7 @@
 
     barChart.generate = function (data, dataName, dataLength) {
 
-        var vis = prepareVisData(sortData(data), dataName, dataLength);
+        var vis = prepareVisData(sortData(data, dataLength), dataName, dataLength);
 
 		var chart = c3.generate({
 			bindto: '#oneDimVisualisation',
@@ -41,6 +41,13 @@
 				width: {
 					ratio: 0.5
 				}
+			},
+			tooltip: {
+				format: {
+					value: function (value, ratio, id) {
+		                return (value*dataLength/100).toFixed(0) + " (" + value + "%)";
+		            }
+				}
 			}
 		});
     };
@@ -54,12 +61,26 @@
     }
 })(window);
 
-function sortData(data) {
+function sortData(data, dataLength) {
+	var agregatedData = agregateMinorValues(data, dataLength);
 	var sortable = [];
-	for (var property in data)
-		  sortable.push([property, data[property]]);
+	for (var property in agregatedData)
+		  sortable.push([property, agregatedData[property]]);
 	sortable.sort(function(a, b) { return b[1] - a[1]; });
 	return sortable;
+}
+
+function agregateMinorValues(data, dataLength) {
+	var agregatedData = data;
+	for (var property in agregatedData) {
+		if (agregatedData[property]/dataLength <= 0.01 || property === '?') {
+			if (agregatedData.inne === undefined)
+				agregatedData.inne = 0;
+			agregatedData.inne += agregatedData[property];
+			delete agregatedData[property];
+		}
+	}
+	return agregatedData;
 }
 
 function prepareVisData(data, dataName, dataLength) {
@@ -72,8 +93,20 @@ function prepareVisData(data, dataName, dataLength) {
 		var property = entry[0];
 		var value = entry[1];
 		var normalizedValue = (value/dataLength*100).toFixed(2);
+
 		vis.viscategories[vis.viscategories.length] = property;
 		vis.viscolumns[vis.viscolumns.length] = normalizedValue;
+
+		/*if (normalizedValue > 1) {
+			
+		}
+		else {
+			if (vis.viscategories['inne'] === undefined || vis.viscategories['inne'] === null) {
+				vis.viscategories[vis.viscategories.length] = 'inne';
+			}
+			vis.viscolumns[vis.viscolumns.length] = normalizedValue;
+		}*/
 	});
+
 	return vis;
 }
