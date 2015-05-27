@@ -103,19 +103,23 @@ function countDependencies(data, dataName1, dataName2, categories, dataLength) {
 	});
 
 	$.each(data, function(i, entry) {
-		if (mainCategoryCounter[entry[dataName1]]/dataLength <= 0.01 || entry[dataName1] === '?') {
-			if (dependencies.inne === undefined) {
-				dependencies.inne = {};
-				$.each(categories[dataName2], function(i, subCategory) {
-					dependencies.inne[subCategory] = 0;
-				});
-				mainCategoryCounter.inne = 0;
-			}
-			dependencies.inne[entry[dataName2]] += 1;
-			mainCategoryCounter.inne += 1;
-			delete dependencies[entry[dataName1]];
+		var dependency = (mainCategoryCounter[entry[dataName1]]/dataLength <= 0.01 || 
+			entry[dataName1] === '?') ? 'inne' : entry[dataName1];
+
+		if (dependencies[dependency] === undefined) {
+			dependencies[dependency] = {};
+			mainCategoryCounter[dependency] = 0;
+			$.each(categories[dataName2], function(i, subCategory) {
+				dependencies[dependency][subCategory] = 0;
+			});
 		}
-		else dependencies[entry[dataName1]][entry[dataName2]] += 1;
+
+		if (dependency === 'inne') { 
+			delete dependencies[entry[dataName1]];
+			mainCategoryCounter[dependency] += 1;
+		}
+
+		dependencies[dependency][entry[dataName2]] += 1;
 	});
 
 	$.each(dependencies, function(dependency, dependencyValue) {
@@ -128,6 +132,11 @@ function countDependencies(data, dataName1, dataName2, categories, dataLength) {
 	obj.counter = mainCategoryCounter;
 	return obj;
 }
+
+function agregateDependency() {
+
+}
+
 
 function prepareStackedVisData(data, dataName1, dataName2, categories, dataLength) {
 	var vis = {};

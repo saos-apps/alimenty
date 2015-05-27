@@ -1,5 +1,5 @@
 {
-	"isAppeal" : ["true", "false"],
+	"isAppeal" : ["prawda", "fałsz"],
 	"reason" : ["alimenty", "podwyższenie", "obniżenie i podwyższenie", 
 		"obniżenie", "podwyższenie i uchylenie", "podwyższenie i alimenty", 
 		"obniżenie i podwyższenie i uchylenie", "obniżenie i podwyższenie i alimenty",
@@ -7,7 +7,7 @@
 		"obniżenie i alimenty", "?"],
 	"result" : ["zasądza (wprowadza) alimenty", "podwyższa alimenty", "oddala wnioski/apelację", 
 		"obniża alimenty", "?", "uchyla obowiązek alimentacyjny"],
-	"defendantSex" : ["male", "female", "both", "?"],
-	"plaintiffSex" : ["male", "female", "both", "?"],
+	"defendantSex" : ["mężczyzna", "kobieta", "obydwoje", "?"],
+	"plaintiffSex" : ["mężczyzna", "kobieta", "obydwoje", "?"],
 	"pkobieta" : ["przewaga kobiet", "przewaga mężczyzn", "po równo", "?"]
 }

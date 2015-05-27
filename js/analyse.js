@@ -21,7 +21,7 @@ function analyse() {
 
 		// isAppeal - czy jest to apelacja
 		// dostępne wyniki : true, false
-		entry.monika.isAppeal = (isAppeal > -1) ? true : false;
+		entry.monika.isAppeal = (isAppeal > -1) ? 'prawda' : 'fałsz';
 
 		// reason - powód sprawy
 		// dostępne wyniki : ?, obniżenie, podwyższenie, alimenty lub pary, uchylenie
@@ -67,11 +67,11 @@ function analyse() {
 
 function getDefendantSex(text, reason) {
 	if (reason.indexOf(' i ') > -1 )
-		return 'both';
+		return 'obydwoje';
 	if (text.indexOf('pozwanego') > -1 || text.indexOf('pozwany') > -1 )
-		return 'male';
+		return 'mężczyzna';
 	if (text.indexOf('pozwanej') > -1 || text.indexOf('pozwana') > -1 )
-		return 'female';
+		return 'kobieta';
 	var re1 = /przeciwko\D*przez matkę/;
 	var re2 = /przeciwko\D*przez przedstawicielkę/;
 	var re3 = /przeciwko\D*przez ojca/;
@@ -89,15 +89,15 @@ function getDefendantSex(text, reason) {
 
 function getPlaintiffSex(text, reason) {
 	if (reason.indexOf(' i ') > -1 )
-		return 'both';
+		return 'obydwoje';
 	if (text.indexOf('powódki') > -1 || text.indexOf('powódka') > -1)
-		return 'female';
+		return 'kobieta';
 	if (text.match('/z powództwa\D*((?!przeciwko).)przez matkę/'))
-		return 'female';
+		return 'kobieta';
 	if (text.match('/z powództwa\D*((?!przeciwko).)przez ojca/'))
-		return 'male';
+		return 'mężczyzna';
 	if (text.match('/powód\s/') || text.indexOf('powoda') > -1)
-		return 'male';
+		return 'mężczyzna';
 	return '?';
 }
 
@@ -290,7 +290,7 @@ function completeness(data) {
 		for(var property in entry.monika) { 
 			if (entry.monika.hasOwnProperty(property)) {
 				if (stats[property] === undefined)
-					stats[property] = 1;
+					stats[property] = 0;
 				if (entry.monika[property] !== '?')
 					stats[property] += 1;
 			}
